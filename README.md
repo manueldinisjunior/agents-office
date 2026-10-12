@@ -1,4 +1,4 @@
-# Manuel Dinis Júnior's Personal Agents Office
+# DEVAF Agents Office
 
 This repository is my personal adaptation of the Agents Office project. I use it as a software engineering sandbox for building systems around autonomous agents, knowledge work, and the broader idea of super intelligence: not as a marketing product, but as an environment for experimentation, thinking, and execution.
 
